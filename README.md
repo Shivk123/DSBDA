@@ -2,7 +2,7 @@
 
 ## DSBDA Practicals Repository
 
-This repository contains practical assignments for the course "Data Science and Big Data Analytics" (DSBDA). Each subdirectory corresponds to a different student's practical assignments.
+Hello TEs, this repository contains practical assignments for the course "Data Science and Big Data Analytics" (DSBDA). Each subdirectory corresponds to a different student's practical assignments.
 
 ## List of Student Repositories:
 
